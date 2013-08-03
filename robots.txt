@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://benjaminsmurray.github.io/sitemap.xml 
