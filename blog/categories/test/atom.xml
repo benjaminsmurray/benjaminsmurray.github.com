@@ -4,7 +4,7 @@
   <title><![CDATA[Category: test | Ben's blog]]></title>
   <link href="http://benjaminsmurray.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://benjaminsmurray.github.io/"/>
-  <updated>2013-08-05T04:59:07+00:00</updated>
+  <updated>2013-08-05T05:03:27+00:00</updated>
   <id>http://benjaminsmurray.github.io/</id>
   <author>
     <name><![CDATA[ben murray]]></name>
@@ -18,7 +18,7 @@
     <link href="http://benjaminsmurray.github.io/blog/2013/08/03/test-post/"/>
     <updated>2013-08-03T18:26:00+00:00</updated>
     <id>http://benjaminsmurray.github.io/blog/2013/08/03/test-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>add some content to this</p>
 ]]></content>
   </entry>
   
